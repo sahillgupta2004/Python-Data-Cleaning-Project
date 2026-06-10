@@ -9,9 +9,9 @@ This project demonstrates data cleaning, preprocessing, and visualization using 
 - Matplotlib
 
 ## Files
-- report.pdf
-- notebook.ipynb
-- cleaning_script.py
+- Report.pdf
+- data_analysis.py
+- wc_2026_fixtures.csv
 
 ## Skills Demonstrated
 - Data Cleaning
